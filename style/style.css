@@ -43,7 +43,7 @@ main #standard-curriculum {
 
 .nav-link .about {
   text-decoration: none;
-  color: rgb(14, 176, 230);
+  color: rgb(28, 128, 241);
   font-family: Quicksand;
   font-size: 1.25rem;
   font-weight: 500;
@@ -53,7 +53,7 @@ main #standard-curriculum {
 
 .nav-link .facilities {
   text-decoration: none;
-  color: rgb(5, 212, 223);
+  color: rgb(43, 55, 226);
   font-family: Quicksand;
   font-size: 1.25rem;
   font-weight: 500;
@@ -63,7 +63,7 @@ main #standard-curriculum {
 
 .nav-link .admission {
   text-decoration: none;
-  color: rgb(93, 88, 239);
+  color: rgb(180, 199, 11);
   font-family: Quicksand;
   font-size: 1.25rem;
   font-weight: 500;
